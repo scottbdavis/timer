@@ -1,6 +1,8 @@
 # timer
 [Return to Home](https://scottbdavis.github.io/scottbdavis/)
 
+[Go to Portfolio](https://github.com/scottbdavis)
+
 ### Name: 
 Timer animation
 
